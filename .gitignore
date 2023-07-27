@@ -1,0 +1,4 @@
+
+*.hdf5
+data/training/1D-delta/delta_rand_list-Delta-1D.npy
+data/training/1D-delta/taus-Delta-1D.npy
